@@ -5,6 +5,6 @@ authors = ["Dario Bartussek <d.bartussek@gmail.com>", "Sean McNamara <smcnam@gma
 edition = "2021"
 
 [dependencies]
-packed_simd = { version = "0.3.6", package = "packed_simd_2" }
+packed_simd = { version = "0.3.7", package = "packed_simd_2" }
 rand_core = "0"
 byteorder = "1"
